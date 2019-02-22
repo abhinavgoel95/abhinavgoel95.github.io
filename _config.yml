@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: Abhinav Goel
+email: goel39@purdue.edu
+description: Doctoral student at Purdue University. 
+url: abhinav-goel.com
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Abhinav Goel
+  avatar: abhinav.png
+  job: "Doctoral student at Purdue University"
+  bio: "Building energy-efficient computer vision techniques for embedded devices."
+  email: goel39@purdue.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: abhinavgoel95
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: abhinavgoel95
   skype: #username
   xing: #username
   instagram: #username

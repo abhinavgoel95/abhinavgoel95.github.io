@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Purdue University
+  link: http://engineering.purdue.edu/  
+  date: Aug 18 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Graduate Research Assistant
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Purdue University
+  link: ttp://engineering.purdue.edu/  
+  date: Aug 18 - Dec 18
+  job: Graduate Teaching Assistant
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Syracuse University
+  link: https://www.syracuse.edu
+  date: Jan 18 - May 18
+  job: Undergraduate Research Intern
+
+- name: Carnegie Mellon University
+  link: http://cmu.edu/
+  date: May 17 - Aug 17
+  job: Summer Research Intern

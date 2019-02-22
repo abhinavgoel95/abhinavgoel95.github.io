@@ -1,8 +1,9 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Purdue University
+  link: http://engineering.purdue.edu/
+  date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: Doctor of Philosophy 
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: PES University
+  link: http://www.pes.edu/
+  date: 2014 - 2018
+  descr: Bachelor of Technology
