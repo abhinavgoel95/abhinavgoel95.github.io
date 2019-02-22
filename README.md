@@ -1,71 +1,37 @@
-# Update 07/09/2018
+## Welcome to GitHub Pages
 
-I'm planning to refactor Leonids theme!!!
+You can use the [editor on GitHub](https://github.com/abhinavgoel95/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-The goal is really simple: make documentation more intuitive and deployment simpler!!!
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Here is the plan:
+### Markdown
 
-| Version | Description | Date |
-| --- | --- | --- |
-| 1.1 | Jekyll version deployable with gem | 07/15/2018 |
-| 1.2 | New features: Pagination, Prev/Next post | 07/22/2018 |
-| 2.0 | Gatsby or Vuepress version (vote in Issues) | who knows... |
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-As the project was and will be designed to improve your writing experience, only documentation, gem, deployment process with CI relevant PRs are acceptable in the future.
+```markdown
+Syntax highlighted code block
 
-I want you to know how much I value your support.
+# Header 1
+## Header 2
+### Header 3
 
-Share it to your timeline!
+- Bulleted
+- List
 
-# Update 05/06/2016
+1. Numbered
+2. List
 
-Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
+**Bold** and _Italic_ and `Code` text
 
-This project is under MIT license, so feel free to make it your own.
-
-# Leonids Jekyll Themes
-
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
-
-## What is Leonids?
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
-
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
-
-## Quick setup
-
-```
-git clone https://github.com/renyuanz/leonids
-cd leonids
-jekyll server
+[Link](url) and ![Image](src)
 ```
 
-Check out your awesome blog at `http://localhost:4000` and Cheers!
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Running with Docker
+### Jekyll Themes
 
-```
-docker run --rm -it --volume=$PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:pages jekyll serve --watch --force_polling
-```
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhinavgoel95/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Resume Page by [@Skn0tt](https://github.com/Skn0tt)
-Leonids features a simple resume page. It is divided up into five sections:
+### Support or Contact
 
-* Bio (Edit \_data/index/careers.yml)
-* Education (Edit \_data/index/education.yml)
-* Skills (Edit \_data/index/skills.yml)
-* Projects (Edit \_data/index/projects.yml)
-* About (Edit \_includes/sections/about.html)
-
-You can put all your info into these files, and they will be featured on the resume page.
-
-## TODO
-
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
