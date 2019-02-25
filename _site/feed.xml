@@ -5,8 +5,8 @@
     <description>Doctoral student at Purdue University.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2019-02-22</pubDate>
-    <lastBuildDate>Fri, 22 Feb 2019 21:30:09 +0100</lastBuildDate>
+    <pubDate>2019-02-25</pubDate>
+    <lastBuildDate>Mon, 25 Feb 2019 09:54:17 +0100</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -28,7 +28,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2015-08/welcome-to-jekyll</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2015-08/welcome-to-jekyll</guid>
         
@@ -137,7 +137,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2013-08/code-highlighting-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-08/code-highlighting-post</guid>
         
@@ -156,7 +156,7 @@
 
 &lt;p&gt;Some &lt;a href=&quot;http://renyuanz.github.io&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2013-08/sample-link-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-08/sample-link-post</guid>
         
@@ -216,7 +216,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2013-05/readability-feature-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2013-05/readability-feature-post</guid>
         
@@ -270,7 +270,7 @@
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2012-05/readability-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2012-05/readability-post</guid>
         
@@ -403,7 +403,7 @@
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;
 </description>
-        <pubDate>2019-02-22</pubDate>
+        <pubDate>2019-02-25</pubDate>
         <link>http://localhost:4000/articles/2011-03/sample-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2011-03/sample-post</guid>
         
