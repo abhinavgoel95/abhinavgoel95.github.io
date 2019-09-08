@@ -1,3 +1,11 @@
+- name: Low-Power Computer Vision; Status, Challenges, Opportunities
+  authors: S Alyamkin, M Ardi, A Brighton, A C Berg, B Chen, Y Chen, HP Cheng, Z Fan, C Feng, B Fu, K Gauen, J Go, A Goel, A Goncharenko, X Guo, S Ha, A Howard, X Hu, Y Huang, D Kang, J Kim, A Kondratyev, J Lee, S Lee, S Lee, Z Li, Z Liang, J Liu, Z Liu, Y Lu, YH Lu, D Malik, HH Nguyen, E Park, D Repin, L Shen, T Sheng, F Sun, D Svitov, GK Thiruvathukal, B Zhang, J Zhang, X Zhang, S Zhuo
+  website: https://ieeexplore.ieee.org/abstract/document/8693826
+
+- name: CompactNet; High Accuracy Deep Neural Network Optimized for On-Chip Implementation
+  authors: A Goel, Z Liu, R Blanton
+  website: https://ieeexplore.ieee.org/abstract/document/8622329
+  
 - name: Robustness of the Counting Rule for Distributed Detection in Wireless Sensor Networks
   authors: A Goel, A Patel, KG Nagananda, PK Varshney
   website: https://ieeexplore.ieee.org/document/8395351
@@ -5,11 +13,3 @@
 - name: Visual Positioning System for Automated Indoor/Outdoor Navigation
   authors: Anup S, A Goel, S Padmanabhan
   website: https://ieeexplore.ieee.org/document/8228008
-
-- name: CompactNet; High Accuracy Deep Neural Network Optimized for On-Chip Implementation
-  authors: A Goel, Z Liu, R Blanton
-  website: https://ieeexplore.ieee.org/abstract/document/8622329
-
-- name: Low-Power Computer Vision; Status, Challenges, Opportunities
-  authors: S Alyamkin, M Ardi, A Brighton, A C Berg, B Chen, Y Chen, HP Cheng, Z Fan, C Feng, B Fu, K Gauen, J Go, A Goel, A Goncharenko, X Guo, S Ha, A Howard, X Hu, Y Huang, D Kang, J Kim, A Kondratyev, J Lee, S Lee, S Lee, Z Li, Z Liang, J Liu, Z Liu, Y Lu, YH Lu, D Malik, HH Nguyen, E Park, D Repin, L Shen, T Sheng, F Sun, D Svitov, GK Thiruvathukal, B Zhang, J Zhang, X Zhang, S Zhuo
-  website: https://ieeexplore.ieee.org/abstract/document/8693826
