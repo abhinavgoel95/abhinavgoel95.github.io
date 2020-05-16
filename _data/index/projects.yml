@@ -1,22 +1,28 @@
 - name: Camera Placement Meeting Restrictions of Computer Vision
   authors: S Aghajanzadeh, R Naidu, S Chen, C Tung, A Goel, YH Lu, GK Thiruvathukal
+  conference: 2020 IEEE International Conference on Image Processing
 
 - name: A Survey of Methods for Low-Power Deep Learning and Computer Vision
   authors: A Goel, C Tung, YH Lu, GK Thiruvathukal
+  conference: 2020 IEEE World Forum on Internet of Things
   website: https://arxiv.org/abs/2003.11066
 
 - name: Low-Power Computer Vision; Status, Challenges, Opportunities
   authors: S Alyamkin, M Ardi, A Brighton, A C Berg, B Chen, Y Chen, HP Cheng, Z Fan, C Feng, B Fu, K Gauen, J Go, A Goel, A Goncharenko, X Guo, S Ha, A Howard, X Hu, Y Huang, D Kang, J Kim, A Kondratyev, J Lee, S Lee, S Lee, Z Li, Z Liang, J Liu, Z Liu, Y Lu, YH Lu, D Malik, HH Nguyen, E Park, D Repin, L Shen, T Sheng, F Sun, D Svitov, GK Thiruvathukal, B Zhang, J Zhang, X Zhang, S Zhuo
+  conference: 2018 IEEE Journal on Emerging and Selected Topics in Circuits and Systems
   website: https://ieeexplore.ieee.org/abstract/document/8693826
 
 - name: CompactNet; High Accuracy Deep Neural Network Optimized for On-Chip Implementation
   authors: A Goel, Z Liu, R Blanton
+  conference: 2018 IEEE Big Data
   website: https://ieeexplore.ieee.org/abstract/document/8622329
   
 - name: Robustness of the Counting Rule for Distributed Detection in Wireless Sensor Networks
   authors: A Goel, A Patel, KG Nagananda, PK Varshney
+  conference: 2018 IEEE Signal Processing Letters
   website: https://ieeexplore.ieee.org/document/8395351
 
 - name: Visual Positioning System for Automated Indoor/Outdoor Navigation
   authors: A Satya, A Goel, S Padmanabhan
+  conference: 2017 IEEE TENCON
   website: https://ieeexplore.ieee.org/document/8228008
