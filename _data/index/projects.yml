@@ -1,3 +1,7 @@
+- name: Modular Neural Networks for Low-Power Image Classification on Embedded Devices
+  authors: A Goel, C Tung, S Aghajanzadeh, SH Chen, GK Thiruvathukal, YH Lu
+  descr: 2020 ACM Transactions on Design Automation of Electronic Systems (Accepted)
+
 - name: Low-Power Object Counting with Hierarchical Neural Networks
   authors: A Goel, C Tung, S Aghajanzadeh, I Ghodgaonkar, S Ghosh, GK Thiruvathukal, YH Lu
   descr: 2020 ACM/IEEE International Symposium on Low Power Electronics and Design (Accepted)
