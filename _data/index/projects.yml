@@ -2,13 +2,14 @@
   authors: A Goel, C Tung, S Aghajanzadeh, SH Chen, GK Thiruvathukal, YH Lu
   descr: 2020 ACM Transactions on Design Automation of Electronic Systems (Accepted)
 
-- name: Low-Power Object Counting with Hierarchical Neural Networks
-  authors: A Goel, C Tung, S Aghajanzadeh, I Ghodgaonkar, S Ghosh, GK Thiruvathukal, YH Lu
-  descr: 2020 ACM/IEEE International Symposium on Low Power Electronics and Design (Accepted)
-
 - name: Camera Placement Meeting Restrictions of Computer Vision
   authors: S Aghajanzadeh, R Naidu, SH Chen, C Tung, A Goel, YH Lu, GK Thiruvathukal
   descr: 2020 IEEE International Conference on Image Processing (Accepted)
+  
+- name: Low-Power Object Counting with Hierarchical Neural Networks
+  authors: A Goel, C Tung, S Aghajanzadeh, I Ghodgaonkar, S Ghosh, GK Thiruvathukal, YH Lu
+  descr: 2020 ACM/IEEE International Symposium on Low Power Electronics and Design (Accepted)
+  website: https://arxiv.org/abs/2007.01369
   
 - name: Observing Responses to the COVID-19 Pandemic using Worldwide Network Cameras
   authors: I Ghodgaonkar, A Goel, F Bordwell, C Tung, S Aghajanzadeh, N Curran, R Chen, K Yu, S Mahapatra, V Banna, G Kao, K Lee, X Hu, N Eliopolous, A Chinnakotla, D Rijhwani, A Kim, A Chakraborty, MD Ward, YH Lu, GK Thiruvathukal
