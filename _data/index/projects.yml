@@ -1,10 +1,6 @@
 - name: Modular Neural Networks for Low-Power Image Classification on Embedded Devices
   authors: A Goel, C Tung, S Aghajanzadeh, SH Chen, GK Thiruvathukal, YH Lu
   descr: 2020 ACM Transactions on Design Automation of Electronic Systems (Accepted)
-  
-- name: Improving Consistency in Object Detectors: Understanding, Diagnosing, and Repairing
-  authors: C Tung, A Goel, KS Sivamani, DP Merrick, I Ghodgaonkar, GK Thiruvathukal, YH Lu
-  descr: 2020 ACM Multimedia (Accepted)
 
 - name: Camera Placement Meeting Restrictions of Computer Vision
   authors: S Aghajanzadeh, R Naidu, SH Chen, C Tung, A Goel, YH Lu, GK Thiruvathukal
