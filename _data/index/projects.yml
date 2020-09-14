@@ -1,15 +1,21 @@
 - name: Modular Neural Networks for Low-Power Image Classification on Embedded Devices
   authors: A Goel, C Tung, S Aghajanzadeh, SH Chen, GK Thiruvathukal, YH Lu
   descr: 2020 ACM Transactions on Design Automation of Electronic Systems (Accepted)
-
-- name: Camera Placement Meeting Restrictions of Computer Vision
-  authors: S Aghajanzadeh, R Naidu, SH Chen, C Tung, A Goel, YH Lu, GK Thiruvathukal
-  descr: 2020 IEEE International Conference on Image Processing (Accepted)
+ 
+- name: Analyzing Worldwide Social Distancing through Large-Scale Computer Vision
+  authors: I Ghodgaonkar, S Chakraborty, V Banna, S Allcroft, M Metwaly, F Bordwell, K Kimura, X Zhao, A Goel, C Tung, A Chinnakotla, M Xue, YH Lu, MD Ward, W Zakharov, DS Ebert, DM Barbarash, GK Thiruvathukal
+  descr: 2020 IEEE International Conference on Big Data (Submitted)
+  website: https://arxiv.org/abs/2008.12363
   
 - name: Low-Power Object Counting with Hierarchical Neural Networks
   authors: A Goel, C Tung, S Aghajanzadeh, I Ghodgaonkar, S Ghosh, GK Thiruvathukal, YH Lu
   descr: 2020 ACM/IEEE International Symposium on Low Power Electronics and Design
   website: https://dl.acm.org/doi/10.1145/3370748.3406569
+
+- name: Camera Placement Meeting Restrictions of Computer Vision
+  authors: S Aghajanzadeh, R Naidu, SH Chen, C Tung, A Goel, YH Lu, GK Thiruvathukal
+  descr: 2020 IEEE International Conference on Image Processing
+  website: https://ecommons.luc.edu/cs_facpubs/250/
   
 - name: Observing Responses to the COVID-19 Pandemic using Worldwide Network Cameras
   authors: I Ghodgaonkar, A Goel, F Bordwell, C Tung, S Aghajanzadeh, N Curran, R Chen, K Yu, S Mahapatra, V Banna, G Kao, K Lee, X Hu, N Eliopolous, A Chinnakotla, D Rijhwani, A Kim, A Chakraborty, MD Ward, YH Lu, GK Thiruvathukal
