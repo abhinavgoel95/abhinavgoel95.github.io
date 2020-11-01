@@ -1,14 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Qualcomm
-  link: https://www.qualcomm.com
-  date: Jun 20 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Machine Learning Performance Intern
-
 - name: Purdue University
   link: http://engineering.purdue.edu/  
   date: Aug 18 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   job: Graduate Research Assistant
+  
+- name: Qualcomm
+  link: https://www.qualcomm.com
+  date: Jun 20 - Aug 20
+  job: Machine Learning Performance Intern
 
 - name: Purdue University
   link: http://engineering.purdue.edu/  
