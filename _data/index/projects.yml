@@ -1,3 +1,7 @@
+- name: Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks
+  authors: A Goel, C Tung, X Hu, G Thiruvathukal,  J Davis, and YH Lu
+  descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
+
 - name: Low-Power Multi-Camera Object Re-Identification using Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, H Wang, J Davis, G Thiruvathukal and YH Lu
   descr: 2021 ACM/IEEE International Symposium on Low Power Electronics and Design
