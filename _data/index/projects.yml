@@ -1,6 +1,10 @@
 - name: Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, G Thiruvathukal, J Davis, and YH Lu
   descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
+  
+- name: Dynamic Adjustment of Concurrent Neural Networks within Limited Power Thermal Constraints in Autonomous Driving
+  authors: HJ Park, A Goel
+  descr: 2021 20th IEEE International Conference On Machine Learning And Applications (Accepted)
 
 - name: Low-Power Multi-Camera Object Re-Identification using Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, H Wang, J Davis, G Thiruvathukal and YH Lu
