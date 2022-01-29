@@ -4,7 +4,8 @@
   
 - name: Dynamic Adjustment of Concurrent Neural Networks within Limited Power Thermal Constraints in Autonomous Driving
   authors: HJ Park, A Goel
-  descr: 2021 20th IEEE International Conference On Machine Learning And Applications (Accepted)
+  descr: 2021 20th IEEE International Conference On Machine Learning And Applications
+  website: https://ieeexplore.ieee.org/document/9680182
 
 - name: Low-Power Multi-Camera Object Re-Identification using Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, H Wang, J Davis, G Thiruvathukal and YH Lu
