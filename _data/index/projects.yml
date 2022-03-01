@@ -1,6 +1,10 @@
 - name: Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks
-  authors: A Goel, C Tung, X Hu, G Thiruvathukal, J Davis, and YH Lu
+  authors: A Goel, C Tung, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
   descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
+  
+- name: Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach
+  authors: J Veselsky, J West, I Ahlgren, A Goel, W Jiang, K Lee, Y Kim, JC Davis, GK Thiruvathukal and N Klingensmith
+  descr: 2022 Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (Accepted)
   
 - name: Dynamic Adjustment of Concurrent Neural Networks within Limited Power Thermal Constraints in Autonomous Driving
   authors: HJ Park, A Goel
@@ -8,7 +12,7 @@
   website: https://ieeexplore.ieee.org/document/9680182
 
 - name: Low-Power Multi-Camera Object Re-Identification using Hierarchical Neural Networks
-  authors: A Goel, C Tung, X Hu, H Wang, J Davis, G Thiruvathukal and YH Lu
+  authors: A Goel, C Tung, X Hu, H Wang, JC Davis, GK Thiruvathukal and YH Lu
   descr: 2021 ACM/IEEE International Symposium on Low Power Electronics and Design
   website: https://ieeexplore.ieee.org/document/9502480
 
