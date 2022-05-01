@@ -2,10 +2,15 @@
   authors: A Goel, C Tung, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
   descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
 
-- name: Irrelevant Pixels are Everywhere; Find and Exclude Them for More Efficient Computer Vision
+- name : Irrelevant Pixels are Everywhere; Find and Exclude Them for More Efficient Computer Vision
   authors: C Tung, A Goel, X Hu, GK Thiruvathukal, V Chaudhary, and YH Lu
   descr: 2022 IEEE International Conference on Artificial Intelligence Circuits and Systems (Accepted)
   
+
+- name : Why Accuracy Is Not Enough: The Need for Consistency in Object Detection
+  authors: C Tung, A Goel, F Bordwell, N Eliopoulos, X Hu, GK Thiruvathukal, and YH Lu
+  descr: 2022 IEEE Multimedia (Accepted)
+
 - name: Observing Human Mobility Worldwide during COVID-19
   authors: S Allcroft, M Metwaly, Z Berg, I Ghodgaonkar, F Bordwell, X Zhao, X Liu, S Chakraborty, V Banna, A Chinnakotla, A Goel, C Tung, G Kao, W Zakharov, D Shoham, GK Thiruvathukal, and YH Lu
   descr: 2022 IEEE Computer (Accepted)
