@@ -3,9 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Abhinav Goel
+title: Abhinav Goel, Ph.D.
 email: goel39@purdue.edu
-description: Doctoral student at Purdue University. 
 url: abhinavgoel95.github.io
 keywords: ["blog", "jekyll"]
 
@@ -33,9 +32,8 @@ kramdown:
 ####################################
 #
 owner:
-  name: Abhinav Goel
+  name: Abhinav Goel, Ph.D.
   avatar: abhinav.png
-  job: "Ph.D. Candidate at Purdue University"
   bio: "Building energy-efficient computer vision techniques for embedded devices."
   email: goel39@purdue.edu
   disqus-shortname:
