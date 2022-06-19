@@ -1,3 +1,7 @@
+- name: Directed Acyclic Graph-based Neural Networks for Tunable Low-Power Computer Vision
+  authors: A Goel, C Tung, N Eliopoulos, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
+  descr: 2022 ACM/IEEE International Symposium on Low Power Electronics and Design (Accepted)
+
 - name: Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
   descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
