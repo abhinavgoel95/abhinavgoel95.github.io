@@ -1,8 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: NVIDIA
+  link: https://www.nvidia.com/en-us/
+  date: Jun 22 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Senior Deep Learning Architect
+
 - name: Purdue University
   link: http://engineering.purdue.edu/  
-  date: Aug 18 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: Aug 18 - May 22
   job: Graduate Research Assistant
   
 - name: Qualcomm
