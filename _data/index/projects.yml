@@ -1,3 +1,13 @@
+- name: Allocating Processing Resources to Concurrently-Executing Neural Networks
+  authors: HJ Park, A Goel
+  descr: 2023 United States Patent and Trademark Office US11363599B1
+  website: https://patentimages.storage.googleapis.com/e0/ec/2a/be5d18c65e6437/US11363599.pdf
+
+- name: Interactive Control of Moving Device Speed and Processing System Operating Frequency
+  authors: HJ Park, A Goel
+  descr: 2023 World Intellectual Property Organization WO2022139965A1
+  website: https://ieeexplore.ieee.org/abstract/document/9935301
+
 - name: Tree-based Unidirectional Neural Networks for Low-Power Computer Vision
   authors: A Goel, C Tung, N Eliopoulos, A Wang, JC Davis, GK Thiruvathukal, and YH Lu
   descr: 2023 IEEE Design & Test
