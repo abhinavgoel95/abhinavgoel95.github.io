@@ -1,18 +1,27 @@
+- name: Tree-based Unidirectional Neural Networks for Low-Power Computer Vision
+  authors: A Goel, C Tung, N Eliopoulos, A Wang, JC Davis, GK Thiruvathukal, and YH Lu
+  descr: 2023 IEEE Design & Test
+  website: https://ieeexplore.ieee.org/abstract/document/9935301
+  
 - name: Directed Acyclic Graph-based Neural Networks for Tunable Low-Power Computer Vision
   authors: A Goel, C Tung, N Eliopoulos, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
-  descr: 2022 ACM/IEEE International Symposium on Low Power Electronics and Design (Accepted)
+  descr: 2022 ACM/IEEE International Symposium on Low Power Electronics and Design
+  website: https://dl.acm.org/doi/10.1145/3531437.3539723
 
 - name: Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks
   authors: A Goel, C Tung, X Hu, GK Thiruvathukal, JC Davis, and YH Lu
-  descr: 2022 27th Asia and South Pacific Design Automation Conference (Accepted)
+  descr: 2022 27th Asia and South Pacific Design Automation Conference
+  website: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9712574
 
 - name : Irrelevant Pixels are Everywhere; Find and Exclude Them for More Efficient Computer Vision
   authors: C Tung, A Goel, X Hu, GK Thiruvathukal, V Chaudhary, and YH Lu
-  descr: 2022 IEEE International Conference on Artificial Intelligence Circuits and Systems (Accepted)
+  descr: 2022 IEEE International Conference on Artificial Intelligence Circuits and Systems
+  website: https://arxiv.org/abs/2207.10741
   
 - name : Why Accuracy Is Not Enough; The Need for Consistency in Object Detection
   authors: C Tung, A Goel, F Bordwell, N Eliopoulos, X Hu, GK Thiruvathukal, and YH Lu
-  descr: 2022 IEEE Multimedia (Accepted)
+  descr: 2022 IEEE Multimedia
+  website: https://ieeexplore.ieee.org/document/9778276
 
 - name: Observing Human Mobility Worldwide during COVID-19
   authors: S Allcroft, M Metwaly, Z Berg, I Ghodgaonkar, F Bordwell, X Zhao, X Liu, S Chakraborty, V Banna, A Chinnakotla, A Goel, C Tung, G Kao, W Zakharov, D Shoham, GK Thiruvathukal, and YH Lu
@@ -20,7 +29,8 @@
 
 - name: Establishing Trust in Vehicle-to-Vehicle Coordination - A Sensor Fusion Approach
   authors: J Veselsky, J West, I Ahlgren, A Goel, W Jiang, K Lee, Y Kim, JC Davis, GK Thiruvathukal and N Klingensmith
-  descr: 2022 Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (Accepted)
+  descr: 2022 Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities
+  website: https://dl.acm.org/doi/10.1145/3508396.3517075
   
 - name: Dynamic Adjustment of Concurrent Neural Networks within Limited Power Thermal Constraints in Autonomous Driving
   authors: HJ Park, A Goel
