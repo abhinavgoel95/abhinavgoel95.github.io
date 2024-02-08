@@ -1,3 +1,8 @@
+- name: Efficient Vision Perception
+  authors: HJ Park, A Goel, YH Kang
+  descr: United States Patent and Trademark Office US20230115371A1
+  website: https://patents.google.com/patent/US20230115371A1/en
+
 - name: Allocating Processing Resources to Concurrently-Executing Neural Networks
   authors: HJ Park, A Goel
   descr: United States Patent and Trademark Office US11363599B1
